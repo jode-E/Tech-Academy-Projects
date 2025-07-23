@@ -1,0 +1,2 @@
+Created new text file in Notepad for Git Bash assignment and saved to https://github.com/jode-E/Tech-Academy-Projects/VCCourse_Challenge_2.txt
+
